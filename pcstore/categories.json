@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "643cd2aed2f4cf93f513bdad"
+  },
+  "name": "LAPTOP",
+  "description": "LAPTOP",
+  "slug": "/LAPTOP",
+  "createdAt": {
+    "$date": "2023-04-17T05:01:34.465Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:39:41.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cd88879b4192efedda4e6"
+  },
+  "name": "PC",
+  "description": "PC",
+  "slug": "/PC",
+  "createdAt": {
+    "$date": "2023-04-17T05:26:32.307Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:40:17.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cd89a79b4192efedda4ee"
+  },
+  "name": "MÀN HÌNH",
+  "description": "MÀN HÌNH",
+  "slug": "/MANHINH",
+  "createdAt": {
+    "$date": "2023-04-17T05:26:50.892Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:40:49.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d030051fc7a906603da39"
+  },
+  "name": "LINK KIỆN",
+  "description": "LINH KIỆN",
+  "slug": "/LINHKIEN",
+  "createdAt": {
+    "$date": "2023-04-17T08:27:44.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:41:16.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644d0f9dd8de2d2d1bac40f5"
+  },
+  "name": "PHỤ KIỆN",
+  "description": "PHỤ KIỆN",
+  "slug": "/PHUKIEN",
+  "createdAt": {
+    "$date": "2023-04-29T12:37:49.064Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:41:34.101Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,362 @@
+[
+  {
+    "_id": {
+      "$oid": "643a50d214b14bac804a6055"
+    },
+    "name": "PC Gaming - Glacier I3050 - 01BL",
+    "price": 13199000,
+    "description": "<div>CPU: Intel Core i3-12100F 4C/8T (3.3 Ghz up to 4.3GHz, 12MB, LGA1700, Alder Lake)_Tray</div><div>Main:  Asus PRIME H610M-K D4</div><div>RAM: HIKSEMI ARMOR DDR4-8GB 3200MHZ U10 U-DIMM</div><div>SSD: Ổ cứng SSD Hiksemi Future Eco 512G PCIe Gen 4x4 NVMe</div><div>VGA: Asus Dual RTX 3050 8GB V2</div><div>PSU: KENOO E550c - Mầu Đen - Cáp dẹt</div><div>Vỏ case: KENOO ESPORT MK500-3F Black</div>",
+    "image": "https://www.tncstore.vn/media/product/250-8687-tnc-store-pc-gaming-glacier-i3050-01bl-69.jpg",
+    "category": {
+      "$oid": "643cd88879b4192efedda4e6"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:22:58.752Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T07:43:47.653Z"
+    },
+    "__v": 0,
+    "promotion": 15999999
+  },
+  {
+    "_id": {
+      "$oid": "643a515d14b14bac804a6060"
+    },
+    "name": "Dell XPS 15",
+    "price": 59990000,
+    "description": "<div>15.6\" FHD InfinityEdge Non-Touch Anti-Glare 500-Nit Display, Intel Core i7-10750H, 16GB RAM, 512GB SSD, NVIDIA GeForce GTX 1650 Ti 4GB GDDR6</div>",
+    "image": "http://localhost:3100/uploads\\1713426521521-image6.png",
+    "category": {
+      "$oid": "643cd2aed2f4cf93f513bdad"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T07:48:41.567Z"
+    },
+    "__v": 0,
+    "promotion": 5590000
+  },
+  {
+    "_id": {
+      "$oid": "6620ba6a63187b84202ce3d7"
+    },
+    "name": "HP Spectre x360",
+    "price": 49990000,
+    "description": "<div>15.6\" 4K UHD Touchscreen, Intel Core i7-10510U, 16GB RAM, 1TB SSD, NVIDIA GeForce MX330 2GB GDDR5</div>",
+    "image": "http://localhost:3100/uploads\\1713426596613-image7.png",
+    "category": {
+      "$oid": "643cd2aed2f4cf93f513bdad"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T07:49:56.646Z"
+    },
+    "__v": 0,
+    "promotion": 48999999
+  },
+  {
+    "_id": {
+      "$oid": "6620ba7e63187b84202ce3d8"
+    },
+    "name": "Dell UltraSharp U2720Q",
+    "price": 39990000,
+    "description": "<div>27\" 4K UHD IPS, 99% sRGB, 1.07B colors, 60Hz, 5ms response time, HDMI, DisplayPort, USB-C</div>",
+    "image": "http://localhost:3100/uploads\\1713427209497-image16.png",
+    "category": {
+      "$oid": "643cd89a79b4192efedda4ee"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:00:09.528Z"
+    },
+    "__v": 0,
+    "promotion": 0
+  },
+  {
+    "_id": {
+      "$oid": "6620ba8c63187b84202ce3d9"
+    },
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 64590000,
+    "description": "<div>14\" FHD IPS, Intel Core i7-10510U, 16GB RAM, 1TB SSD, Intel UHD Graphics</div>",
+    "image": "http://localhost:3100/uploads\\1713427940574-image8.png",
+    "category": {
+      "$oid": "643cd2aed2f4cf93f513bdad"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:12:20.601Z"
+    },
+    "__v": 0,
+    "promotion": 63999000
+  },
+  {
+    "_id": {
+      "$oid": "6620ba8f63187b84202ce3da"
+    },
+    "name": "ASUS ZenBook Pro Duo",
+    "price": 59990000,
+    "description": "<div>15.6\" OLED 4K UHD Touchscreen, Intel Core i9-10980HK, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 3070 8GB GDDR6</div>",
+    "image": "http://localhost:3100/uploads\\1713427981046-image9.png",
+    "category": {
+      "$oid": "643cd2aed2f4cf93f513bdad"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:13:01.077Z"
+    },
+    "__v": 0,
+    "promotion": 0
+  },
+  {
+    "_id": {
+      "$oid": "6620ba9063187b84202ce3db"
+    },
+    "name": "PC Ryzen 9 7900X | RTX 3070 Ti | RAM 32GB",
+    "price": 62890000,
+    "description": "<p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">CPU:\n AMD Ryzen 9 7900X (12 Nhân / 24 Luồng | 4.7GHz Boost 5.6GHz | 76MB Cache | TDP\n 170W | Socket AM5)</span></p><p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">Mainboard:\n X670</span></p><p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">RAM:\n 32GB</span></p><p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">VGA:\n GeForce RTX 3070Ti</span></p><p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">SSD:\n M.2 NVMe 500GB</span></p><p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">PSU:\n 850W</span></p>",
+    "image": "http://localhost:3100/uploads\\1713428196493-image.png",
+    "category": {
+      "$oid": "643cd88879b4192efedda4e6"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:16:36.546Z"
+    },
+    "__v": 0,
+    "promotion": 59999999
+  },
+  {
+    "_id": {
+      "$oid": "6620ba9463187b84202ce3dd"
+    },
+    "name": "HP Z27",
+    "price": 39990000,
+    "description": "<div>27\" QHD IPS, 99% sRGB, 1.07B colors, 60Hz, 5ms response time, HDMI, DisplayPort, USB-C</div>",
+    "image": "http://localhost:3100/uploads\\1713427655592-image17.png",
+    "category": {
+      "$oid": "643cd89a79b4192efedda4ee"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:07:35.631Z"
+    },
+    "__v": 0,
+    "promotion": 0
+  },
+  {
+    "_id": {
+      "$oid": "6620ba9a63187b84202ce3df"
+    },
+    "name": "PC Gaming - Sniper I4070Ti - Silver",
+    "price": 45590000,
+    "description": "<div>CPU: Intel Core i5 - 14500 14C/20T ( Up to 4.80GHz, 24MB )</div><div>Mainboard: ASUS ROG STRIX B760-I GAMING WIFI DDR5</div><div>RAM : Corsair VENGEANCE RGB 32GB (2x16GB) 5600MHz Black (CMH32GX5M2B5600C40K)</div><div>SSD: Kingston KC3000 1TB NVMe PCIe Gen 4.0</div><div>VGA: ASUS TUF Gaming GeForce RTX 4070 Ti SUPER 16GB GDDR6X</div><div>PSU: Lian Li SP850 850W SFX Black</div><div>Vỏ case: Lian-Li A4 H2O Silver</div><div>Tản nhiệt: Tản Nhiệt Nước CPU MSI MAG CORELIQUID C240 (Tặng kèm theo cấu hình)</div>",
+    "image": "https://www.tncstore.vn/media/product/250-8768-sniper-i4070ti---silver-1.jpg",
+    "category": {
+      "$oid": "643cd88879b4192efedda4e6"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T09:01:38.897Z"
+    },
+    "__v": 0,
+    "promotion": 48999999
+  },
+  {
+    "_id": {
+      "$oid": "6620ba9c63187b84202ce3e0"
+    },
+    "name": "PC Gaming - Sniper I4070Ti - Silver",
+    "price": 45590000,
+    "description": "<div>CPU: Intel Core i5 - 14500 14C/20T ( Up to 4.80GHz, 24MB )</div>\n<div>Mainboard: ASUS ROG STRIX B760-I GAMING WIFI DDR5</div>\n<div>RAM : Corsair VENGEANCE RGB 32GB (2x16GB) 5600MHz Black (CMH32GX5M2B5600C40K)</div>\n<div>SSD: Kingston KC3000 1TB NVMe PCIe Gen 4.0</div>\n<div>VGA: ASUS TUF Gaming GeForce RTX 4070 Ti SUPER 16GB GDDR6X</div>\n<div>PSU: Lian Li SP850 850W SFX Black</div>\n<div>Vỏ case: Lian-Li A4 H2O Silver</div>\n<div>Tản nhiệt: Tản Nhiệt Nước CPU MSI MAG CORELIQUID C240 (Tặng kèm theo cấu hình)\n</div>",
+    "image": "https://www.tncstore.vn/media/product/250-8768-sniper-i4070ti---silver-1.jpg",
+    "category": {
+      "$oid": "643cd88879b4192efedda4e6"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T09:01:43.909Z"
+    },
+    "__v": 0,
+    "promotion": 48999999
+  },
+  {
+    "_id": {
+      "$oid": "6620ba9e63187b84202ce3e1"
+    },
+    "name": "PC Doanh Nghiệp Full Combo 1",
+    "price": 9299000,
+    "description": "<div>CPU:  AMD Ryzen™ 5 4600G (8M Cache, Up to 4.2GHz, 6C12T, Socket AM4) Mainboard: ASUS Prime A320M-K SSD: SSD Hiksemi Wave 512GB Sata 3 RAM: HIKSEMI ARMOR DDR4-8GB 3200MHZ U10 U-DIMM Nguồn:  Nguồn máy tính KENOO E550c - Mầu Đen - Cáp dẹt Vỏ case: MIK TM06 - Black Màn hình: ASUS VA24EHF 23.8 inch/ IPS/ Full HD/ 100Hz/ 1ms</div>",
+    "image": "http://localhost:3100/uploads\\1713428141902-pc7.jpg",
+    "category": {
+      "$oid": "643cd88879b4192efedda4e6"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:15:41.929Z"
+    },
+    "__v": 0,
+    "promotion": 0
+  },
+  {
+    "_id": {
+      "$oid": "6620baa063187b84202ce3e2"
+    },
+    "name": "PC STUDIO PRO 06I LIMITED",
+    "price": 125990000,
+    "description": "<div>Vỏ case Asus ROG Hyperion GR701 EVA Bo Mạch Chủ Asus ROG MAXIMUS Z790 HERO EVA 02 DDR5 Tản nhiệt nước ASUS ROG RYUJIN III 360 ARGB EVA-02 EDITION Nguồn Asus ROG Thor 1000W - 80 Plus Platinum II Eva Edition Card Màn Hình Asus ROG Strix RTX® 4090 OC EVA 02 Edition 24GB RAM Corsair Dominator Platinum RGB 32GB (2x16GB) 5600Mhz (CMT32GX5M2B5600C36) x2 Ổ cứng SSD Samsung 990 PRO 2TB M.2 NVMe PCIe Gen 4.0 x4</div>",
+    "image": "http://localhost:3100/uploads\\1713428091345-pc8.jpg",
+    "category": {
+      "$oid": "643cd88879b4192efedda4e6"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:14:51.370Z"
+    },
+    "__v": 0,
+    "promotion": 119999999
+  },
+  {
+    "_id": {
+      "$oid": "6620baa263187b84202ce3e3"
+    },
+    "name": "ASUS ProArt PA278CV",
+    "price": 34590000,
+    "description": "<div>27\" QHD IPS, 100% sRGB, 1.07B colors, 60Hz, 5ms response time, HDMI, DisplayPort, USB-C</div>",
+    "image": "http://localhost:3100/uploads\\1713427771786-image19.png",
+    "category": {
+      "$oid": "643cd89a79b4192efedda4ee"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:09:31.827Z"
+    },
+    "__v": 0,
+    "promotion": 32590000
+  },
+  {
+    "_id": {
+      "$oid": "6620baa463187b84202ce3e4"
+    },
+    "name": "Lenovo ThinkVision P27h",
+    "price": 39990000,
+    "description": "<div>27\" QHD IPS, 99% sRGB, 1.07B colors, 60Hz, 5ms response time, HDMI, DisplayPort, USB-C</div>",
+    "image": "http://localhost:3100/uploads\\1713427731057-image18.png",
+    "category": {
+      "$oid": "643cd89a79b4192efedda4ee"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:08:51.087Z"
+    },
+    "__v": 0,
+    "promotion": 37000000
+  },
+  {
+    "_id": {
+      "$oid": "6620f5d335dbcc31e8011c25"
+    },
+    "name": "Lenovo ThinkVision P27h",
+    "price": 39990000,
+    "description": "<div>27\" QHD IPS, 99% sRGB, 1.07B colors, 60Hz, 5ms response time, HDMI, DisplayPort, USB-C</div>",
+    "image": "http://localhost:3100/uploads\\1713427731057-image18.png",
+    "category": {
+      "$oid": "643cd89a79b4192efedda4ee"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:08:51.087Z"
+    },
+    "__v": 0,
+    "promotion": 37000000
+  },
+  {
+    "_id": {
+      "$oid": "6620f5d535dbcc31e8011c26"
+    },
+    "name": "Lenovo ThinkVision P27h",
+    "price": 39990000,
+    "description": "<div>27\" QHD IPS, 99% sRGB, 1.07B colors, 60Hz, 5ms response time, HDMI, DisplayPort, USB-C</div>",
+    "image": "http://localhost:3100/uploads\\1713427731057-image18.png",
+    "category": {
+      "$oid": "643cd89a79b4192efedda4ee"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:08:51.087Z"
+    },
+    "__v": 0,
+    "promotion": 37000000
+  },
+  {
+    "_id": {
+      "$oid": "6620f5d735dbcc31e8011c27"
+    },
+    "name": "Lenovo ThinkVision P27h",
+    "price": 39990000,
+    "description": "<div>27\" QHD IPS, 99% sRGB, 1.07B colors, 60Hz, 5ms response time, HDMI, DisplayPort, USB-C</div>",
+    "image": "http://localhost:3100/uploads\\1713427731057-image18.png",
+    "category": {
+      "$oid": "643cd89a79b4192efedda4ee"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:08:51.087Z"
+    },
+    "__v": 0,
+    "promotion": 37000000
+  },
+  {
+    "_id": {
+      "$oid": "6620f5da35dbcc31e8011c28"
+    },
+    "name": "Lenovo ThinkVision P27h",
+    "price": 39990000,
+    "description": "<div>27\" QHD IPS, 99% sRGB, 1.07B colors, 60Hz, 5ms response time, HDMI, DisplayPort, USB-C</div>",
+    "image": "http://localhost:3100/uploads\\1713427731057-image18.png",
+    "category": {
+      "$oid": "643cd89a79b4192efedda4ee"
+    },
+    "createdAt": {
+      "$date": "2023-04-15T07:25:17.510Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-18T08:08:51.087Z"
+    },
+    "__v": 0,
+    "promotion": 37000000
+  }
+]

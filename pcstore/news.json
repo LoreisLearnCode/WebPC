@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "643d26e480b67864908bad60"
+  },
+  "name": "Laptop Lenovo Legion 5",
+  "description": "Ra mắt sản phẩm",
+  "createdAt": {
+    "$date": "2023-04-17T11:00:52.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T04:03:07.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d28a680b67864908badcf"
+  },
+  "name": "Laptop Gaming ASUS ROG Zephyrus G14 GA403UU QS101W",
+  "description": "Sản phẩm mới hoàn toàn",
+  "createdAt": {
+    "$date": "2023-04-17T11:08:22.113Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T04:03:29.873Z"
+  },
+  "__v": 0
+}]

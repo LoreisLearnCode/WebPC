@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "66208e3a0082b10e004d2857"
+  },
+  "user": {
+    "$oid": "66201210d73a899e22eef17c"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "643a515d14b14bac804a6060"
+      },
+      "quantity": 1,
+      "price": 45590000,
+      "_id": {
+        "$oid": "66208e3a0082b10e004d2858"
+      }
+    },
+    {
+      "product": {
+        "$oid": "643a50d214b14bac804a6055"
+      },
+      "quantity": 1,
+      "price": 13199000,
+      "_id": {
+        "$oid": "66208e3a0082b10e004d2859"
+      }
+    }
+  ],
+  "orderTotal": 58789000,
+  "address": "abc",
+  "billing": "cod",
+  "status": "pending",
+  "description": "a",
+  "createdAt": {
+    "$date": "2024-04-18T03:06:34.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T03:06:34.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66209c94e47ec54a7f177cf3"
+  },
+  "user": {
+    "$oid": "66209c220082b10e004d2a91"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "643a515d14b14bac804a6060"
+      },
+      "quantity": 1,
+      "price": 45590000,
+      "_id": {
+        "$oid": "66209c94e47ec54a7f177cf4"
+      }
+    }
+  ],
+  "orderTotal": 45590000,
+  "address": "1111",
+  "billing": "cod",
+  "status": "pending",
+  "description": "1111",
+  "createdAt": {
+    "$date": "2024-04-18T04:07:48.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T04:07:48.888Z"
+  },
+  "__v": 0
+}]

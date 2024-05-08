@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "64491f49903624fa08f00dc6"
+  },
+  "email": "admin@gmail.com",
+  "phone": "0147258369",
+  "username": "ADMIN",
+  "password": "$2b$10$HAathgnQy3LZkX2c4tJXcuJ55qzhphtpyI.NEfsRMdFvpcla9dsiO",
+  "role": "isAdmin",
+  "status": "actived",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/OOjs_UI_icon_userAvatar-progressive.svg/1024px-OOjs_UI_icon_userAvatar-progressive.svg.png",
+  "createdAt": {
+    "$date": "2023-04-26T12:55:37.978Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T12:55:37.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66201210d73a899e22eef17c"
+  },
+  "email": "tam@gmail.com",
+  "phone": "0123465987",
+  "username": "tam",
+  "password": "$2b$10$95Af/bp1n5f705XCJ0R98O4Mymt7ib2rvMckB3obG2903tgOCVX5S",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/OOjs_UI_icon_userAvatar-progressive.svg/1024px-OOjs_UI_icon_userAvatar-progressive.svg.png",
+  "createdAt": {
+    "$date": "2024-04-17T18:16:48.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T18:16:48.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66209c220082b10e004d2a91"
+  },
+  "email": "test@gmail.com",
+  "phone": "0963852741",
+  "username": "test",
+  "password": "$2b$10$FSEYmM6533jp.3aDgagSReX0dZ/cxNBaA1z0lvU7WUqioj6UgFLxy",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2024-04-18T04:05:54.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T04:05:54.251Z"
+  },
+  "__v": 0
+}]
